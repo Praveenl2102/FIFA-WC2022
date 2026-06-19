@@ -95,12 +95,9 @@ The FIFA World Cup 2022 Dashboard is an interactive Power BI project designed to
 ## 📷 Dashboard Preview
 
 Add your dashboard screenshots below:
+![Team Dashboard](https://raw.githubusercontent.com/praveenkumar/FIFA-World-Cup-2022-Dashboard/main/images/team-dashboard.png)
 
-![Dashboard Overview](images/dashboard1.png)
-
-![Team Analysis](images/dashboard2.png)
-
-![Player Statistics](images/dashboard3.png)
+![Player Dashboard](https://raw.githubusercontent.com/praveenkumar/FIFA-World-Cup-2022-Dashboard/main/images/player-dashboard.png)
 
 ---
 
